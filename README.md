@@ -2,6 +2,12 @@
 
 ![Alt-Text](https://static.wixstatic.com/media/1aff8b_fd2648e97ba0463b96d2ea30703dff24~mv2.png/v1/crop/x_0,y_234,w_1033,h_578/fill/w_354,h_198,al_c,q_85,usm_2.00_1.00_0.00/output-onlinepngtools%20(2).webp)
 
+Inscrições
+![](https://static.wixstatic.com/media/1aff8b_fd2648e97ba0463b96d2ea30703dff24~mv2.png/v1/crop/x_0,y_234,w_1033,h_578/fill/w_354,h_198,al_c,q_85,usm_2.00_1.00_0.00/output-onlinepngtools%20(2).webp&link=https://bit.ly/jornada_quant)
+
+Telegram Jornada Quant
+![Telegram](https://t.me/jornadaquant)
+
 
 
 
