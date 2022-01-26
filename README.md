@@ -1,6 +1,6 @@
 # Jornada Quant 04
 
-![Alt-Text](https://static.wixstatic.com/media/1aff8b_e5b56072818c46689c082dfba35485e2~mv2.gif)
+![](https://static.wixstatic.com/media/1aff8b_e5b56072818c46689c082dfba35485e2~mv2.gif)
 
 
 [Inscrições](https://bit.ly/jornada_quant)
