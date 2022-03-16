@@ -21,4 +21,8 @@ A Jornada Quant de número 04 acontecerá entre os dias 08 e 11 de fevereiro de 
 
 Detalhes sobre o case realizado:
 
+* Utilizando a API da Binance, realizamos uma extração de dados de negociação do Bitcoin e realizamos uma análise utilizando métricas quantitativas.
+* Depois, desenvolvemos uma estratégia de trading, criamos os sinais e depois testamos a estratégia com um backtest manual.
+* Por fim, implementamos a estratégia ao vivo e deixamos ela rodando para execução dos trades sempre que as regras de trading fossem verificadas.
+
 
