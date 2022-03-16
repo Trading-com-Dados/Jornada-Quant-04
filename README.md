@@ -18,3 +18,7 @@ Isso acontece pois o acesso a uma quantidade cada vez maior de dados e a difusã
 A Jornada Quant é um evento online, ao vivo e gratuito que tem como objetivo ser a porta de entrada para quem quer ingressar no mundo quant.
 
 A Jornada Quant de número 04 acontecerá entre os dias 08 e 11 de fevereiro de 2022.
+
+Detalhes sobre o case realizado:
+
+
